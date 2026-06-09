@@ -4,9 +4,13 @@
 
 # Hey, I'm Axel!
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akke&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+I'm a web developer and hobbyist game developer with most of my experience in HTML, CSS, React, TypeScript, Lua, MongoDB and MySQL.
+
+I love creating websites that are both stunning and practical to use.
+
+What else...? Dark mode is my go-to.
+
+Hit me up on LinkedIn!
 
 ---
 
